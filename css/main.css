@@ -1,3 +1,29 @@
+@import url("//hello.myfonts.net/count/33c07d");
+
+  
+@font-face {font-family: 'VitaliNeue-Black';src: url('webfonts/33C07D_0_0.eot');src: url('webfonts/33C07D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_0_0.woff2') format('woff2'),url('webfonts/33C07D_0_0.woff') format('woff'),url('webfonts/33C07D_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Bold';src: url('webfonts/33C07D_1_0.eot');src: url('webfonts/33C07D_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_1_0.woff2') format('woff2'),url('webfonts/33C07D_1_0.woff') format('woff'),url('webfonts/33C07D_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Blackitalic';src: url('webfonts/33C07D_2_0.eot');src: url('webfonts/33C07D_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_2_0.woff2') format('woff2'),url('webfonts/33C07D_2_0.woff') format('woff'),url('webfonts/33C07D_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Bolditalic';src: url('webfonts/33C07D_3_0.eot');src: url('webfonts/33C07D_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_3_0.woff2') format('woff2'),url('webfonts/33C07D_3_0.woff') format('woff'),url('webfonts/33C07D_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Italic';src: url('webfonts/33C07D_4_0.eot');src: url('webfonts/33C07D_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_4_0.woff2') format('woff2'),url('webfonts/33C07D_4_0.woff') format('woff'),url('webfonts/33C07D_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Light';src: url('webfonts/33C07D_5_0.eot');src: url('webfonts/33C07D_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_5_0.woff2') format('woff2'),url('webfonts/33C07D_5_0.woff') format('woff'),url('webfonts/33C07D_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Lightitalic';src: url('webfonts/33C07D_6_0.eot');src: url('webfonts/33C07D_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_6_0.woff2') format('woff2'),url('webfonts/33C07D_6_0.woff') format('woff'),url('webfonts/33C07D_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Regular';src: url('webfonts/33C07D_7_0.eot');src: url('webfonts/33C07D_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_7_0.woff2') format('woff2'),url('webfonts/33C07D_7_0.woff') format('woff'),url('webfonts/33C07D_7_0.ttf') format('truetype');}
+
 html, body {
     height: 100%;
 }
