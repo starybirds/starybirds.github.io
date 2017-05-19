@@ -7,6 +7,10 @@ html, body {
     height:100vh;
 }
 
+p {
+    font-family: 'VitaliNeue-Regular', Helvetica, Arial, sans-serif;
+}
+
 #wrapper {
     margin-top:50px;
 }
