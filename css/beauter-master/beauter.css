@@ -18,7 +18,7 @@ body {
     margin: 0;
     font-size: 1.5em;
     line-height: 1.6;
-    font-family: 'VitaliNeue-Regular', Helvetica, Arial, sans-serif;
+    font-family: 'industry', Helvetica, Arial, sans-serif;
     color: #555;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -34,7 +34,7 @@ body {
 /* Typography*/
 
 b, strong {
-    font-family: 'VitaliNeue-Black', Helvetica, Arial, sans-serif;
+    font-weight: 400;
 }
 
 mark {
@@ -47,7 +47,7 @@ small {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:"justus-pro";
+    font-family:"factoria";
     margin-top: 0;
     margin-bottom: 2rem;
     font-weight: 300;
