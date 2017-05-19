@@ -825,7 +825,6 @@ ul.listnav {
     background-repeat: no-repeat;
     background-size: cover;
     overflow-y: auto;
-    height: 100%;
 }
 
 .bg-parallax .-front {
