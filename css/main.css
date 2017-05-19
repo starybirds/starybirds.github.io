@@ -17,6 +17,11 @@ body {
     padding-bottom: 20px;
 }
 
+#myTopnav {
+    top:0px;
+    position:fixed;
+}
+
 .dropdown {
     cursor:pointer;
 }
