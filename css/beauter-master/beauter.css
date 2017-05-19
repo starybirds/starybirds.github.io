@@ -831,7 +831,7 @@ ul.listnav {
     margin-top: auto;
     margin-bottom: auto;
     color: #ffffff;
-    text-shadow: 1px 1px 1px #444;
+    text-shadow: 1px 1px 0px #666;
 
 }
 
