@@ -666,6 +666,8 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    top:0px;
+    position:fixed;
 }
 
 ul.topnav li {
