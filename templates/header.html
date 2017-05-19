@@ -1,0 +1,21 @@
+<ul class="topnav" id="myTopnav">
+  <li><a href="#/home" class="brand">Brand</a></li>
+  <li><a href="#/home" class="active">Home</a></li>
+  <li><a href="#/work">Work</a></li>
+  <li><a href="#/contact">Contact</a></li>
+  <li class="-icon">
+    <a href="javascript:void(0);" onclick="myFunction()">☰</a>
+  </li>
+
+</ul>
+<script>
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the -icon */
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
