@@ -8,7 +8,8 @@ html, body {
 }
 
 p {
-    font-family: 'VitaliNeue-Regular', Helvetica, Arial, sans-serif;
+    font-family: 'industry', Helvetica, Arial, sans-serif;
+    font-weight: 300;
 }
 
 #wrapper {
