@@ -829,7 +829,8 @@ ul.listnav {
 }
 
 .bg-parallax .-front {
-    margin-top: 50vh;
+    margin-top: auto;
+    margin-bottom: auto;
     color: #ffffff;
 
 }
