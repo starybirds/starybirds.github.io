@@ -666,8 +666,6 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    top:0px;
-    position:fixed;
 }
 
 ul.topnav li {
@@ -827,6 +825,7 @@ ul.listnav {
     background-repeat: no-repeat;
     background-size: cover;
     overflow-y: auto;
+    height: 100%;
 }
 
 .bg-parallax .-front {
