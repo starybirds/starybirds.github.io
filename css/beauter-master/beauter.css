@@ -18,7 +18,6 @@ body {
     margin: 0;
     font-size: 1.5em;
     line-height: 1.6;
-    font-weight: 400;
     font-family: 'VitaliNeue-Regular', Helvetica, Arial, sans-serif;
     color: #222;
     background-repeat: no-repeat;
@@ -35,8 +34,7 @@ body {
 /* Typography*/
 
 b, strong {
-    font-weight: inherit;
-    font-weight: bolder;
+    font-family: 'VitaliNeue-Black', Helvetica, Arial, sans-serif;
 }
 
 mark {
