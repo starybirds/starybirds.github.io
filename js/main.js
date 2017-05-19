@@ -1,11 +1,8 @@
 /**
- * AngularJS Tutorial 1
- * @author Nick Kaye <nick.c.kaye@gmail.com>
+ * 
+ *Thank you to @author Nick Kaye <nick.c.kaye@gmail.com> for making an amazing tutorial to help me figure this out!!
  */
 
-/**
- * Main AngularJS Web Application
- */
 var app = angular.module('RB', [
   'ngRoute'
 ]);

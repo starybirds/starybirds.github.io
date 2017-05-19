@@ -7,7 +7,9 @@ html, body {
     height:100vh;
 }
 
-
+#wrapper {
+    margin-top:20px;
+}
 .dropdown {
     cursor:pointer;
 }
