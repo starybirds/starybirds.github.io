@@ -1,6 +1,6 @@
 /**
  * @license
- * MyFonts Webfont Build ID 3181869, 2016-03-05T21:49:46-0500
+ * MyFonts Webfont Build ID 3391613, 2017-05-19T00:31:27-0400
  * 
  * The fonts listed in this notice are subject to the End User License
  * Agreement(s) entered into by the website owner. All other parties are 
@@ -9,32 +9,62 @@
  * You may obtain a valid license at the URLs below.
  * 
  * Webfont: VitaliNeue-Black by BORUTTA GROUP
- * URL: http://www.myfonts.com/fonts/borutta/vitali-neue/black/
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/black/
+ * 
+ * Webfont: VitaliNeue-Bold by BORUTTA GROUP
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/bold/
+ * 
+ * Webfont: VitaliNeue-Blackitalic by BORUTTA GROUP
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/black-ital/
+ * 
+ * Webfont: VitaliNeue-Bolditalic by BORUTTA GROUP
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/bolditalic/
+ * 
+ * Webfont: VitaliNeue-Italic by BORUTTA GROUP
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/italic/
  * 
  * Webfont: VitaliNeue-Light by BORUTTA GROUP
- * URL: http://www.myfonts.com/fonts/borutta/vitali-neue/light/
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/light/
+ * 
+ * Webfont: VitaliNeue-Lightitalic by BORUTTA GROUP
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/light-ital/
  * 
  * Webfont: VitaliNeue-Regular by BORUTTA GROUP
- * URL: http://www.myfonts.com/fonts/borutta/vitali-neue/regular/
+ * URL: https://www.myfonts.com/fonts/borutta/vitali-neue/regular/
  * 
  * 
- * License: http://www.myfonts.com/viewlicense?type=web&buildid=3181869
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3391613
  * Licensed pageviews: 10,000
  * Webfonts copyright: Copyright &#x00A9; 2015 by Mateusz Machalski. All rights reserved.
  * 
- * © 2016 MyFonts Inc
+ * © 2017 MyFonts Inc
 */
 
 
 /* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/308d2d");
+@import url("//hello.myfonts.net/count/33c07d");
 
   
-@font-face {font-family: 'VitaliNeue-Black';src: url('webfonts/308D2D_0_0.eot');src: url('webfonts/308D2D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/308D2D_0_0.woff2') format('woff2'),url('webfonts/308D2D_0_0.woff') format('woff'),url('webfonts/308D2D_0_0.ttf') format('truetype');}
+@font-face {font-family: 'VitaliNeue-Black';src: url('webfonts/33C07D_0_0.eot');src: url('webfonts/33C07D_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_0_0.woff2') format('woff2'),url('webfonts/33C07D_0_0.woff') format('woff'),url('webfonts/33C07D_0_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'VitaliNeue-Light';src: url('webfonts/308D2D_1_0.eot');src: url('webfonts/308D2D_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/308D2D_1_0.woff2') format('woff2'),url('webfonts/308D2D_1_0.woff') format('woff'),url('webfonts/308D2D_1_0.ttf') format('truetype');}
+@font-face {font-family: 'VitaliNeue-Bold';src: url('webfonts/33C07D_1_0.eot');src: url('webfonts/33C07D_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_1_0.woff2') format('woff2'),url('webfonts/33C07D_1_0.woff') format('woff'),url('webfonts/33C07D_1_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'VitaliNeue-Regular';src: url('webfonts/308D2D_2_0.eot');src: url('webfonts/308D2D_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/308D2D_2_0.woff2') format('woff2'),url('webfonts/308D2D_2_0.woff') format('woff'),url('webfonts/308D2D_2_0.ttf') format('truetype');}
+@font-face {font-family: 'VitaliNeue-Blackitalic';src: url('webfonts/33C07D_2_0.eot');src: url('webfonts/33C07D_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_2_0.woff2') format('woff2'),url('webfonts/33C07D_2_0.woff') format('woff'),url('webfonts/33C07D_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Bolditalic';src: url('webfonts/33C07D_3_0.eot');src: url('webfonts/33C07D_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_3_0.woff2') format('woff2'),url('webfonts/33C07D_3_0.woff') format('woff'),url('webfonts/33C07D_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Italic';src: url('webfonts/33C07D_4_0.eot');src: url('webfonts/33C07D_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_4_0.woff2') format('woff2'),url('webfonts/33C07D_4_0.woff') format('woff'),url('webfonts/33C07D_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Light';src: url('webfonts/33C07D_5_0.eot');src: url('webfonts/33C07D_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_5_0.woff2') format('woff2'),url('webfonts/33C07D_5_0.woff') format('woff'),url('webfonts/33C07D_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Lightitalic';src: url('webfonts/33C07D_6_0.eot');src: url('webfonts/33C07D_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_6_0.woff2') format('woff2'),url('webfonts/33C07D_6_0.woff') format('woff'),url('webfonts/33C07D_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'VitaliNeue-Regular';src: url('webfonts/33C07D_7_0.eot');src: url('webfonts/33C07D_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/33C07D_7_0.woff2') format('woff2'),url('webfonts/33C07D_7_0.woff') format('woff'),url('webfonts/33C07D_7_0.ttf') format('truetype');}
  
