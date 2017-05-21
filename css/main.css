@@ -7,9 +7,10 @@ html, body {
     height:96vh;
 }
 
-header {
+.landing {
     height:48vh;
 }
+
 p {
     font-family: 'industry', Helvetica, Arial, sans-serif;
     font-weight: 300;
@@ -20,6 +21,10 @@ p {
 }
 .dropdown {
     cursor:pointer;
+}
+
+.landing {
+    height:48vh;
 }
 
 @keyframes bouncing {
