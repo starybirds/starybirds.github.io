@@ -19,6 +19,23 @@ p {
     cursor:pointer;
 }
 
+.arrow {
+  white-space: nowrap;
+  color:#3F68B2;
+  position: absolute;
+  text-align: center;
+  right: 0;
+  bottom: 20px;
+  left: 0;
+  margin: auto;
+  width: 40px;
+  height: 40px;
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 750ms ease-in-out;
+  -ms-transition: all 750ms ease-in-out;
+  -o-transition: all 750ms ease-in-out;
+  transition: all 750ms ease-in-out;
+}
 
 .img-home-portfolio,
 .img-customer,
