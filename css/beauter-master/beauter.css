@@ -665,7 +665,8 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    font-family: 'factoria'
+    font-family: 'factoria', monospace;
+    text-transform: uppercase;
 }
 
 ul.topnav li {
