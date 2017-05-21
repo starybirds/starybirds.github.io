@@ -665,11 +665,11 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    font-family: 'factoria', monospace;
+    font-family: 'factoria'
 }
 
 ul.topnav li {
-    float: right;
+    float: left;
     margin-bottom: 0;
 }
 
@@ -688,7 +688,6 @@ ul.topnav li a.brand {
     margin-left: 20px;
     margin-right: 20px;
     font-weight: bold;
-    float: left;
 }
 
 ul.topnav li a.brand:hover {
