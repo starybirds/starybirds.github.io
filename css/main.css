@@ -17,7 +17,7 @@ p {
 }
 
 .landing {
-    height:48vh;
+    height:50px;
 }
 
 
@@ -29,7 +29,7 @@ p {
 
 .arrow {
     animation: bouncing 2s infinite ease-in-out;
-    bottom: 20px;
+    bottom: 0;
     display: block;
     height: 50px;
     left: 50%;
