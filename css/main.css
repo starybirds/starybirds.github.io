@@ -7,6 +7,9 @@ html, body {
     height:96vh;
 }
 
+header {
+    height:48vh;
+}
 p {
     font-family: 'industry', Helvetica, Arial, sans-serif;
     font-weight: 300;
