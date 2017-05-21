@@ -29,6 +29,18 @@
     <link rel="stylesheet" type="text/css" href="css/vitali.css" />
     <script src="https://use.typekit.net/yqp4umy.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+     <script> var arrowBounce = function() {
+  var arrow = $(".arrow");
+
+  if (arrow.hasClass("lift")) {
+    arrow.removeClass("lift");
+  } else {
+    arrow.addClass("lift");
+  }
+};
+
+setInterval(arrowBounce, 800);
+    </script>
 </head>
 <body ng-app="RB">
 <!-- Our Website Content Goes Here -->
