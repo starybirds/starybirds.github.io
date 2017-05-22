@@ -15,14 +15,14 @@ footer {
     bottom:0;
     color:#fff;
     background-color: #3f68b2;
-    padding:25px 0 15px 0;
+    padding:25px 0 10px 0;
 }
 
 .firstcharacter {
   color: #3f68b2;
   float: left;
   font-family: 'factoria', monospace;
-  font-size: 4.0rem;
+  font-size: 5.0rem;
   line-height: 0;
   padding-top:23px;
   padding-bottom:4px;
