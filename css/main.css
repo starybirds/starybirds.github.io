@@ -9,14 +9,15 @@ p {
     font-weight: 300;
 }
 
-p:first-child:first-letter {
+
+.firstcharacter {
   color: #3f68b2;
   float: left;
-  font-family:'factoria', monospace;
-  font-size: 4.0rem;
-  line-height: 1.2;
+  font-family: 'factoria',monospace;
+  font-size: 1.2rem;
+  line-height: 60px;
   padding-top: 4px;
-  padding-right: 8px;
+  padding-right: 5px;
   padding-left: 3px;
 }
 
