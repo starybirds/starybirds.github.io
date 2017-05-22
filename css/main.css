@@ -9,6 +9,17 @@ p {
     font-weight: 300;
 }
 
+p:first-child:first-letter {
+  color: #3f68b2;
+  float: left;
+  font-family:'factoria', monospace;
+  font-size: 4.0rem;
+  line-height: 1.2;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
 #wrapper {
     margin-top:50px;
 }
