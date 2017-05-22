@@ -54,8 +54,15 @@ footer {
     border: 1px solid #3f68b2;
     border-radius:2px;
     color:#fff;
+    transition: 0.3s;
 }
 
+.social:hover {
+    background-color:#fff;
+    color:#3f68b2;
+    border: 1px solid #fff;
+    transition: 0.3s;
+}
 .footer {
     display: inline-block; 
     list-style-type: none;
