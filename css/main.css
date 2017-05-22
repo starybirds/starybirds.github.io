@@ -56,6 +56,11 @@ footer {
     color:#fff;
 }
 
+.footer {
+    display: inline-block; 
+    list-style-type: none;
+}
+
 ::selection {
         background:#3f68b2;color:#fff;
 }
