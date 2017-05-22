@@ -15,7 +15,6 @@ footer {
     bottom:0;
     color:#fff;
     background-color: #3f68b2;
-    padding:25px 0 7px 0;
 }
 
 .firstcharacter {
@@ -54,3 +53,26 @@ footer {
     color:#fff;
     margin:auto;
 }
+
+::selection {
+        background:#3f68b2;color:#fff;
+}
+::-moz-selection {
+    background:#3f68b2;color:#fff;
+}
+::-webkit-selection {
+    background:#3f68b2;color:#fff;
+}
+
+::-webkit-scrollbar {
+    width:10px;
+    height:10px;
+    }
+ 
+::-webkit-scrollbar-track-piece {
+    background-color:#fff;
+    }
+::-webkit-scrollbar-thumb {
+    background-color:#fff;
+    border:3px solid #333;
+    }
