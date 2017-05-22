@@ -15,7 +15,7 @@ footer {
     bottom:0;
     color:#fff;
     background-color: #3f68b2;
-    padding:25px 0 10px 0;
+    padding:25px 0 7px 0;
 }
 
 .firstcharacter {
@@ -47,4 +47,9 @@ footer {
     height: 50px;
     bottom:0;
     width: 50px;
+}
+
+.social {
+    flex: 1;
+    color:#fff;
 }
