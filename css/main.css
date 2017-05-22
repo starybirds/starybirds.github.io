@@ -10,6 +10,13 @@ p {
     font-weight: 300;
 }
 
+footer {
+    width:100%;
+    bottom:0;
+    height:50px;
+    color:fff;
+    background-color: #3f68b2;
+}
 
 .firstcharacter {
   color: #3f68b2;
