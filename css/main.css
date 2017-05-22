@@ -16,10 +16,6 @@ p {
     margin-top:50px;
 }
 
-.landing {
-    height:50px;
-}
-
 
 @keyframes bouncing {
     0% {bottom: 0;}
