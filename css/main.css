@@ -65,7 +65,7 @@ footer {
 }
 ul.footer { 
     list-style-type: none;
-    align-items: left;
+    align-items: right;
 }
 
 ul.footer li {
