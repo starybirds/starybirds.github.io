@@ -42,9 +42,12 @@ footer {
 
 .arrow {
     animation: bouncing 2s infinite ease-in-out;
+    bottom: 0;
     display: block;
     height: 50px;
-    bottom:0;
+    left: 50%;
+    margin-left: -25px;
+    position: absolute;
     width: 50px;
 }
 
