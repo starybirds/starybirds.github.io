@@ -57,15 +57,26 @@ footer {
     transition: 0.3s;
 }
 
-.social:hover {
+.social a {
+    background-color:#3f68b2;
+    padding:5px;
+    border: 1px solid #3f68b2;
+    border-radius:2px;
+    color:#fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.social a:hover {
     background-color:#fff;
     color:#3f68b2;
     border: 1px solid #fff;
     transition: 0.3s;
 }
+
 ul.footer { 
     list-style-type: none;
-    align-items: right;
+    float: right;
 }
 
 ul.footer li {
