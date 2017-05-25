@@ -77,6 +77,16 @@ footer {
     transition: 0.3s;
 }
 
+.copy {
+    text-transform: uppercase;
+}
+
+@media screen and (max-width:750px) {
+    .copy {
+        text-transform:uppercase;
+        text-align:center;
+    }
+
 .mobile {
 
 }
@@ -87,6 +97,10 @@ footer {
     }
 }
 
+.subnav {
+    position:fixed;
+}
+
 ul.footer { 
     list-style-type: none;
     float: right;
@@ -94,6 +108,16 @@ ul.footer {
 
 ul.footer li {
     display: inline-block;
+}
+
+@media screen and (max-width:750px) {
+     ul.footer { 
+        list-style-type: none;
+        text-align: center;
+    }
+    ul.footer li {
+        display: inline-block;
+    }
 }
 
 ::selection {
