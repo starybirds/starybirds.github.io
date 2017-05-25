@@ -82,18 +82,16 @@ footer {
         text-align:center;
     }
 
-.mobile {
-    
+
+.subnav {
+    position:fixed;
+    margin-left:-50px;
 }
 
 @media screen and (max-width:750px) {
-    .mobile {
+    .subnav {
         display:none;
     }
-}
-
-.subnav {
-    position:absolute;
 }
 
 ul.footer { 
@@ -111,8 +109,8 @@ ul.footer li {
         text-align: center;
     }
     ul.footer li {
-    display: inline-block;
-    text-align: center; 
+        display: inline-block;
+        text-align: center; 
     }
 }
 
