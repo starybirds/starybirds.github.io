@@ -85,7 +85,12 @@ footer {
     margin-top:15px;
     width: 16.66%;
     z-index: 1;
-    border:1px solid #000;
+}
+
+@media screen and (max-width: 400px) {
+    .subnav {
+        display: none !important;
+    }
 }
 
 ul.footer { 
