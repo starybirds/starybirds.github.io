@@ -34,6 +34,7 @@ a.social:hover {
 footer {
     width:100%;
     bottom:0;
+    padding: 5%;
     color:#fff;
     background-color: #3f68b2;
 }
@@ -87,7 +88,7 @@ footer {
     border:1px solid #000;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
     .subnav {
         display: none !important;
     }
