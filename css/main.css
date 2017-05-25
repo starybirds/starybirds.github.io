@@ -93,10 +93,13 @@ footer {
 
 ul.footer { 
     list-style-type: none;
+    display:inline-block;
+    text-align: center;
 }
 
 ul.footer li {
     display: inline-block;
+    text-align: center;
 }
 
 ::selection {
