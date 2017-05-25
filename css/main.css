@@ -77,6 +77,16 @@ footer {
     transition: 0.3s;
 }
 
+.mobile {
+
+}
+
+@media screen and (max-width:750px) {
+    .mobile {
+        display:none;
+    }
+}
+
 ul.footer { 
     list-style-type: none;
     float: right;
