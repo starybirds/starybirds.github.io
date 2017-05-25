@@ -74,18 +74,13 @@ footer {
 
 .copy {
     text-transform: uppercase;
+    text-align: center;
 }
-
-@media screen and (max-width:750px) {
-    .copy {
-        text-transform:uppercase;
-        text-align:center;
-    }
 
 
 .subnav {
     position:fixed;
-    margin-left:-50px;
+    margin-left:-100px;
     z-index: 1;
     border:1px solid #000;
 }
@@ -102,7 +97,6 @@ ul.footer {
 
 ul.footer li {
     display: inline-block;
-    text-align: center;
 }
 
 ::selection {
