@@ -80,17 +80,11 @@ footer {
 
 .subnav {
     position:fixed;
-    margin-left:-15px;
+    margin-left:0;
     margin-top:15px
     width:16.66%;
     z-index: 1;
     border:1px solid #000;
-}
-
-@media screen and (max-width:750px) {
-    .subnav {
-        display:none;
-    }
 }
 
 ul.footer { 
