@@ -86,6 +86,8 @@ footer {
 .subnav {
     position:fixed;
     margin-left:-50px;
+    z-index: 1;
+    border:1px solid #000;
 }
 
 @media screen and (max-width:750px) {
@@ -96,22 +98,11 @@ footer {
 
 ul.footer { 
     list-style-type: none;
-    float: right;
 }
 
 ul.footer li {
     display: inline-block;
-}
-
-@media screen and (max-width:750px) {
-     ul.footer { 
-        list-style-type: none;
-        text-align: center;
-    }
-    ul.footer li {
-        display: inline-block;
-        text-align: center; 
-    }
+    text-align: center;
 }
 
 ::selection {
