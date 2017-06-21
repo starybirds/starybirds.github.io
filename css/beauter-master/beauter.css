@@ -672,7 +672,7 @@ ul.topnav {
 }
 
 ul.topnav li {
-    float: left;
+    float: right;
     margin-bottom: 0;
 }
 
