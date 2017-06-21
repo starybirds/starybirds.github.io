@@ -670,7 +670,7 @@ ul.topnav {
 }
 
 ul.topnav li {
-    float: right;
+    float: left;
     margin-bottom: 0;
 }
 
@@ -1467,20 +1467,29 @@ img {
 }
 
 ._purple {
+    background-color: #800080 !important;
+    border: 1px solid #800080 !important;
+}
+
+._primary {
+    background-color: #33C3F0 !important;
+    border-color: #33C3F0 !important;
+}
+
+._violet {
     background-color: #8A7AA6 !important;
     border: 1px solid #8A7AA6 !important;
 }
 
-._primary {
+._viridian {
     background-color: #669999 !important;
     border-color: #669999 !important;
-}
 
 ._cream, ._white {
     color: #000 !important;
 }
 
-._primary, ._purple, ._grey, ._dark, ._active, ._danger, ._success, ._info, ._warning {
+._primary, ._purple, ._grey, ._dark, ._active, ._danger, ._success, ._info, ._warning, ._violet, ._viridian {
     color: #fff !important;
 }
 
