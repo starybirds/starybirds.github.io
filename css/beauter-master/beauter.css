@@ -170,11 +170,11 @@ th:last-child, td:last-child {
 }
 
 tr:hover {
-    background-color: #FAC9CA
+    background-color: #FAC9CA;
 }
 
 tr:nth-child(even) {
-    background-color: #FAC9CA
+    background-color: #FAC9CA;
 }
 
 
