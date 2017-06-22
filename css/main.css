@@ -134,6 +134,23 @@ ul.footer li {
     font-family: 'industry',sans-serif;
 }
 
+.project {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.piece {
+    flex: 0 1 auto;
+    align-self: flex-start;
+}
+
+.piece img {
+    max-width: 100%;
+}
+
 ::selection {
         background:#3f68b2;color:#fff;
 }
