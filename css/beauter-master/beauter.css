@@ -48,6 +48,7 @@ small {
 
 h1, h2, h3, h4, h5, h6 {
     font-family:"factoria";
+    color: #3D68B2;
     margin-top: 0;
     margin-bottom: 2rem;
     font-weight: 300;
@@ -126,12 +127,13 @@ p {
 a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
-    color: #1EAEDB;
+    color: #3D68B2;
 }
 
 a:active, a:hover {
     outline-width: 0;
-    color: #0FA0CE;
+    color: #3D68B2;
+    text-decoration: underline;
 }
 
 hr {
@@ -656,6 +658,7 @@ input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focu
     padding-top: 5%;
     padding-bottom: 5%;
     text-align: center;
+    margin-bottom: 15px;
 }
 
 
@@ -666,7 +669,7 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #666;
     font-family: 'factoria', monospace;
     text-transform: uppercase;
 }
@@ -694,11 +697,11 @@ ul.topnav li a {
 }
 
 ul.topnav li a.brand:hover {
-    background-color: #333;
+    background-color: #666;
 }
 
 ul.topnav li a.disabled:hover {
-    background-color: #333;
+    background-color: #666;
     color: #d3d3d3;
 }
 
@@ -712,7 +715,7 @@ ul.topnav li a.active {
 }
 
 ul.topnav li a:hover {
-    background-color: #555;
+    background-color: #3D68B2;
     color: #ffffff;
 }
 
