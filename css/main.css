@@ -25,6 +25,7 @@ aside {
     font-family: 'factoria', Helvetica, Arial, sans-serif;
     font-weight: 300;
     text-align: left;
+    width: 15%;
 }
 
 aside ul {
@@ -36,12 +37,18 @@ aside ul a {
     color: #3f68b2;
     border-left: 3px solid #FAC9CA;
     padding-left: 2px;
+    text-decoration: none;
     transition: 0.3s;
 }
 
 aside ul a:hover {
-    border-left: 6px solid #FAC9CA;
+    border-left: 9px solid #FAC9CA;
     transition: 0.3s;
+}
+
+aside ul li {
+    margin: 0;
+    padding: 0;
 }
 
 a.social {
@@ -112,7 +119,7 @@ footer {
 .subnav {
     position:fixed;
     margin-top:15px;
-    width: 10%;
+    width: 100%;
 }
 
 ul.footer { 
