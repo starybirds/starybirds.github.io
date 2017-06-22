@@ -147,6 +147,12 @@ ul.footer li {
     align-self: flex-start;
 }
 
+piece img {
+    padding:5px;
+    border: 1px solid #666;
+    border-radius: 3px;
+}
+
 ::selection {
         background:#3f68b2;color:#fff;
 }
