@@ -147,10 +147,6 @@ ul.footer li {
     align-self: flex-start;
 }
 
-.piece img {
-    max-width: 100%;
-}
-
 ::selection {
         background:#3f68b2;color:#fff;
 }
