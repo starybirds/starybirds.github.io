@@ -35,15 +35,19 @@ aside ul {
 }
 
 aside ul a {
-    color: #3f68b2;
-    border-left: 3px solid #FAC9CA;
-    padding-left: 2px;
+    background-color:#3f68b2;
+    padding:3px;
+    border: 1px solid #3f68b2;
+    border-radius:2px;
+    color:#fff;
     text-decoration: none;
     transition: 0.3s;
 }
 
 aside ul a:hover {
-    border-left: 9px solid #FAC9CA;
+    background-color:#fff;
+    color:#3f68b2;
+    border: 1px solid #fff;
     transition: 0.3s;
 }
 
