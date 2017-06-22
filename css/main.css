@@ -145,7 +145,7 @@ ul.footer li {
 .piece {
     flex: 0 1 auto;
     align-self: flex-start;
-    width:400px;
+    width:250px;
 }
 
 .piece img {
