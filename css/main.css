@@ -145,12 +145,14 @@ ul.footer li {
 .piece {
     flex: 0 1 auto;
     align-self: flex-start;
+    width:20%;
 }
 
 piece img {
     padding:5px;
     border: 1px solid #666;
     border-radius: 3px;
+    max-width: 100%;
 }
 
 ::selection {
