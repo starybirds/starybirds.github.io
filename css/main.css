@@ -139,20 +139,18 @@ ul.footer li {
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: flex-start;
-    align-content: flex-start;
+    align-content: center;
 }
 
 .piece {
-    flex: 0 1 auto;
+    flex: 1 1 auto;
     align-self: flex-start;
-    width:250px;
 }
 
 .piece img {
     padding:5px;
     border: 1px solid #888;
     border-radius: 3px;
-    max-width: 100%;
 }
 
 ::selection {
