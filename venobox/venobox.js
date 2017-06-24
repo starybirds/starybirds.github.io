@@ -43,7 +43,7 @@
               numerationPosition : 'top', // 'top' || 'bottom'
               overlayClose: true, // disable overlay click-close - thanx @martybalandis
               overlayColor : 'rgba(23,23,23,0.85)',
-              spinner : 'double-bounce', // available: 'rotating-plane' | 'double-bounce' | 'wave' | 'wandering-cubes' | 'spinner-pulse' | 'three-bounce' | 'cube-grid'
+              spinner : 'wave', // available: 'rotating-plane' | 'double-bounce' | 'wave' | 'wandering-cubes' | 'spinner-pulse' | 'three-bounce' | 'cube-grid'
               spinColor : '#d2d2d2',              
               titleattr: 'title', // specific attribute to get a title (e.g. [data-title]) - thanx @mendezcode
               titleBackground: '#161617',
