@@ -150,16 +150,3 @@ ul.footer li {
 ::-webkit-selection {
     background:#3f68b2;color:#fff;
 }
-
-::-webkit-scrollbar {
-    width:10px;
-    height:10px;
-    }
- 
-::-webkit-scrollbar-track-piece {
-    background-color:#fff;
-    }
-::-webkit-scrollbar-thumb {
-    background-color:#333;
-    border:3px solid #fff;
-}
