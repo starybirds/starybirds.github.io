@@ -141,6 +141,10 @@ ul.footer li {
     max-width: 100%;
 }
 
+.piece:hover {
+    opacity: 0.6;
+}
+
 ::selection {
         background:#3f68b2;color:#fff;
 }
