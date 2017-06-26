@@ -139,10 +139,12 @@ ul.footer li {
     border: 1px solid #888;
     border-radius: 3px;
     max-width: 100%;
+    transition: 0.3s;
 }
 
 .piece:hover {
-    opacity: 0.6;
+    opacity: 0.5;
+    transition: 0.3s;
 }
 
 ::selection {
